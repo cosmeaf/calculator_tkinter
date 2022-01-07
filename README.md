@@ -8,7 +8,7 @@ These instructions will provide you with a copy of the project up and running on
 
 To create a Tkinter :
 
-````
+```
 Importing the module – tkinter
 Create the main window (container)
 Add any number of widgets to the main window
@@ -20,9 +20,9 @@ Below is what the GUI looks like:
 
 Import tkinter Package
 
-`` `
+```
 import tkinter as tk
-`` `
+```
 
 ### Source Code
 
@@ -34,7 +34,7 @@ import tkinter as tk
  Project Calculator Criated with tkinter
 
 """
-
+```
 import tkinter as tk
 
 calculation = ""
@@ -115,4 +115,4 @@ btn_equal.grid(row=6, column=3, columnspan=2)
 
 root.geometry("300x275")
 root.mainloop()
-
+```
