@@ -35,6 +35,3 @@ import tkinter as tk
 
 """
 
-#### Calculator Image
-![alculator_tkinter_python_v001](https://user-images.githubusercontent.com/45183265/148588941-e19d1057-3d1e-4504-8a33-b829848dfdc6.jpg)
-
