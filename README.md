@@ -25,16 +25,15 @@ import tkinter as tk
 ```
 
 ### Source Code
-
+```
 """
  Project Calculetor
  Author Cosme Alves
  Date 07/01/2022
 
  Project Calculator Criated with tkinter
-
 """
-```
+
 import tkinter as tk
 
 calculation = ""
